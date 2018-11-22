@@ -39,6 +39,6 @@ function iLoveTheBeatles(number) {
   
 } while ( i < 15);
 
-return "I love the Beatles";
+return newArray;
 
 }
