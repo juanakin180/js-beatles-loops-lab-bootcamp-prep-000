@@ -35,12 +35,11 @@ function iLoveTheBeatles(number) {
   do {
     
     newArray.push("I love the Beatles!");
+    i++;
   
-} while ( i < 15) {
+} while ( i < 15)
 
-i++;
 
-}
 
 return "I love the Beatles";
 
