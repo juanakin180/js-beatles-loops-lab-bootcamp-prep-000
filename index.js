@@ -42,3 +42,5 @@ function iLoveTheBeatles(number) {
 return newArray;
 
 }
+
+iLoveTheBeatles(7);
