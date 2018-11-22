@@ -30,14 +30,14 @@ moreFacts.push(facts[i] + "!!!" );
 function iLoveTheBeatles(number) {
   
   var newArray = [];
-  let i = 0;
+  
   
   do {
     
     newArray.push("I love the Beatles!");
-    i++;
+    number++;
   
-} while ( i < 7);
+} while ( number < 7);
 
 return newArray;
 
